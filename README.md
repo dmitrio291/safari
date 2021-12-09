@@ -5,9 +5,10 @@
 ## Используемые технологии:
 HTML
 CSS
-Reset
+Normalize
 jQuery
 Slick Slider
+Magnific Popup
 
 # EN
 # safari
@@ -16,6 +17,7 @@ Adaptive and responsive the website for booking African safari tours in accordan
 ## Technologies used:
 HTML
 CSS
-Reset
+Normalize
 jQuery
 Slick Slider
+Magnific Popup
